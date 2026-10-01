@@ -18,7 +18,7 @@ Currenty the following firmwares are supported.
  Firmware Name |Basic Use| Control SD
  :------------:|:-------:|:----------:
  Repetier      | YES     | YES
- Marlin        | YES     | YES
+ Marlin        | YES     | no
  Teacup        | YES     | NO
  APrinter      | YES     | NO
  SPrinter      | YES     | NO
